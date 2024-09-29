@@ -1,0 +1,79 @@
+[
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site\n\n\nMore about this site"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "repo-actions",
+    "section": "",
+    "text": "This is a Quarto website."
+  },
+  {
+    "objectID": "index.html#the-beginning",
+    "href": "index.html#the-beginning",
+    "title": "repo-actions",
+    "section": "The beginning",
+    "text": "The beginning"
+  },
+  {
+    "objectID": "index.html#the-middle",
+    "href": "index.html#the-middle",
+    "title": "repo-actions",
+    "section": "The middle",
+    "text": "The middle"
+  },
+  {
+    "objectID": "index.html#the-beginning-of-the-end",
+    "href": "index.html#the-beginning-of-the-end",
+    "title": "repo-actions",
+    "section": "The beginning of the end",
+    "text": "The beginning of the end"
+  },
+  {
+    "objectID": "index.html#the-middl-of",
+    "href": "index.html#the-middl-of",
+    "title": "repo-actions",
+    "section": "The middl of",
+    "text": "The middl of"
+  },
+  {
+    "objectID": "index.html#the-middle-of-t",
+    "href": "index.html#the-middle-of-t",
+    "title": "repo-actions",
+    "section": "The middle of t",
+    "text": "The middle of t"
+  },
+  {
+    "objectID": "index.html#the-middle-of-the-end",
+    "href": "index.html#the-middle-of-the-end",
+    "title": "repo-actions",
+    "section": "The middle of the end",
+    "text": "The middle of the end\n\nThe beginning of the middle of the end\n\n\nThe middle of the middle of the end"
+  },
+  {
+    "objectID": "index.html#the-end",
+    "href": "index.html#the-end",
+    "title": "repo-actions",
+    "section": "The end",
+    "text": "The end\n\nThe beginning of the end\n\n\nThe middle of the end\n\nThe beginning of the middle of the end\n\n\nThe middle of the middle of the end\n\nThe beginning of the middle of the middle of the end\n\n\n\n\nThe end of the end"
+  },
+  {
+    "objectID": "about.html#some-details",
+    "href": "about.html#some-details",
+    "title": "About",
+    "section": "Some details",
+    "text": "Some details"
+  },
+  {
+    "objectID": "about.html#some-details-too",
+    "href": "about.html#some-details-too",
+    "title": "About",
+    "section": "Some details too",
+    "text": "Some details too"
+  }
+]
